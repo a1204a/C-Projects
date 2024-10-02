@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Aufgabe_01\Aufgabe_01.csproj" />
+    <ProjectReference Include="..\Aufgabe_02\Aufgabe_02.csproj" />
+    <ProjectReference Include="..\Aufgabe_03\Aufgabe_03.csproj" />
+    <ProjectReference Include="..\Aufgabe_04\Aufgabe_04.csproj" />
+    <ProjectReference Include="..\Aufgabe_05\Aufgabe_05.csproj" />
+  </ItemGroup>
+
 </Project>

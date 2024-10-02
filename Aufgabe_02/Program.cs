@@ -4,7 +4,7 @@ namespace Aufgabe_02
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[])
         {
             Console.WriteLine();
             Console.WriteLine("Berechnung von Sekunden eines Monats in Abhängigkeit seiner Anzahl Tage.");
