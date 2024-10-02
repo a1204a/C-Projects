@@ -71,7 +71,6 @@
                 }
             }
 
-            // Warte auf Benutzereingabe, um das Programm zu beenden
             Console.WriteLine("Drücken Sie eine beliebige Taste, um das Programm zu beenden.");
             Console.ReadKey();
 

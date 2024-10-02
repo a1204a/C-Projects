@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Aufgabe_01\Aufgabe_01.csproj" />
     <ProjectReference Include="..\Aufgabe_02\Aufgabe_02.csproj" />
     <ProjectReference Include="..\Aufgabe_03\Aufgabe_03.csproj" />
